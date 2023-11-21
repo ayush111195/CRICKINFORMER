@@ -26,7 +26,7 @@ public class MatchServicesImpl implements MatchService {
 	}
 
 	@Override
-	public List<Map<String, String>> getPointTable() {
+	public List<Map<String, String>> getPointTable( ) {
 		// TODO Auto-generated method   stub
 		return null;
 	}
