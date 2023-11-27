@@ -12,7 +12,7 @@ public interface MatchService {
 
 	//get all match
 	
-	List<Match>getAllMatch();
+	List<Match>getAllMatch( );
 		
     //get all live match 
 	
