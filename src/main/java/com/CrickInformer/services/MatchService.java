@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 import com.CrickInformer.entites.Match;
 
 @Service
-public interface MatchService {
+public interface MatchService  {
 
 	//get all match
 	
