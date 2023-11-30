@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.CrickInformer</groupId>
-	<artifactId>CrickInformer</artifactId >
+	<artifactId>CrickInformer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>CrickInformer</name>
 	<description>this is project just for cricket information</description>
